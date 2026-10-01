@@ -1,0 +1,63 @@
+﻿SERVICE
+activating
+Result=exit-code
+ExecMainStatus=1
+ActiveState=activating
+SubState=auto-restart
+LOCAL_HTTP
+JOURNAL
+Started api-reservas.service - API de Reservas.
+(node:35117) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Erro ao inicializar banco de dados: self-signed certificate in certificate chain
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 387.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+(node:35131) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Erro ao inicializar banco de dados: self-signed certificate in certificate chain
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 388.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+(node:35145) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Erro ao inicializar banco de dados: self-signed certificate in certificate chain
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 389.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+(node:35159) Warning: SECURITY WARNING: The SSL modes 'prefer', 'require', and 'verify-ca' are treated as aliases for 'verify-full'.
+In the next major version (pg-connection-string v3.0.0 and pg v9.0.0), these modes will adopt standard libpq semantics, which have weaker security guarantees.
+To prepare for this change:
+- If you want the current behavior, explicitly use 'sslmode=verify-full'
+- If you want libpq compatibility now, use 'uselibpqcompat=true&sslmode=require'
+See https://www.postgresql.org/docs/current/libpq-ssl.html for libpq SSL mode definitions.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Erro ao inicializar banco de dados: self-signed certificate in certificate chain
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+PORTAS
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess                        
+LISTEN 0      128          0.0.0.0:22        0.0.0.0:*    users:(("sshd",pid=2161,fd=3))
+LISTEN 0      128             [::]:22           [::]:*    users:(("sshd",pid=2161,fd=4))
+

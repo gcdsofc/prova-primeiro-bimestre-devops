@@ -1,0 +1,213 @@
+﻿STATUS_API
+activating
+Result=exit-code
+ExecMainStatus=1
+ActiveState=activating
+SubState=auto-restart
+JOURNAL_API
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 202.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 203.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 204.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 205.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 206.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 207.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 208.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 209.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 210.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 211.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 212.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 213.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+api-reservas.service: Scheduled restart job, restart counter is at 214.
+Stopped api-reservas.service - API de Reservas.
+Started api-reservas.service - API de Reservas.
+Erro ao inicializar banco de dados: no pg_hba.conf entry for host "10.20.1.80", user "reservas_user", database "reservas_db", no encryption
+api-reservas.service: Main process exited, code=exited, status=1/FAILURE
+api-reservas.service: Failed with result 'exit-code'.
+CLOUD_INIT
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.8.20250818.html
+
+  Version 2023.8.20250908:
+    Run the following command to upgrade to 2023.8.20250908:
+
+      dnf upgrade --releasever=2023.8.20250908
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.8.20250908.html
+
+  Version 2023.8.20250915:
+    Run the following command to upgrade to 2023.8.20250915:
+
+      dnf upgrade --releasever=2023.8.20250915
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.8.20250915.html
+
+  Version 2023.9.20250929:
+    Run the following command to upgrade to 2023.9.20250929:
+
+      dnf upgrade --releasever=2023.9.20250929
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20250929.html
+
+  Version 2023.9.20251014:
+    Run the following command to upgrade to 2023.9.20251014:
+
+      dnf upgrade --releasever=2023.9.20251014
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251014.html
+
+  Version 2023.9.20251020:
+    Run the following command to upgrade to 2023.9.20251020:
+
+      dnf upgrade --releasever=2023.9.20251020
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251020.html
+
+  Version 2023.9.20251027:
+    Run the following command to upgrade to 2023.9.20251027:
+
+      dnf upgrade --releasever=2023.9.20251027
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251027.html
+
+  Version 2023.9.20251105:
+    Run the following command to upgrade to 2023.9.20251105:
+
+      dnf upgrade --releasever=2023.9.20251105
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251105.html
+
+  Version 2023.9.20251110:
+    Run the following command to upgrade to 2023.9.20251110:
+
+      dnf upgrade --releasever=2023.9.20251110
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251110.html
+
+  Version 2023.9.20251117:
+    Run the following command to upgrade to 2023.9.20251117:
+
+      dnf upgrade --releasever=2023.9.20251117
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251117.html
+
+  Version 2023.9.20251208:
+    Run the following command to upgrade to 2023.9.20251208:
+
+      dnf upgrade --releasever=2023.9.20251208
+
+    Release notes:
+     https://docs.aws.amazon.com/linux/al2023/release-notes/relnotes-2023.9.20251208.html
+
+================================================================================
+ 
+
+Installed:
+  libbrotli-1.0.9-4.amzn2023.0.2.x86_64                                         
+  nodejs-1:18.18.2-1.amzn2023.0.3.x86_64                                        
+  nodejs-docs-1:18.18.2-1.amzn2023.0.3.noarch                                   
+  nodejs-full-i18n-1:18.18.2-1.amzn2023.0.3.x86_64                              
+  nodejs-libs-1:18.18.2-1.amzn2023.0.3.x86_64                                   
+  nodejs-npm-1:9.8.1-1.18.18.2.1.amzn2023.0.3.x86_64                            
+  postgresql15-15.6-1.amzn2023.0.1.x86_64                                       
+  postgresql15-private-libs-15.6-1.amzn2023.0.1.x86_64                          
+
+Complete!
++ mkdir -p /opt/api-reservas/src
++ cd /opt/api-reservas
++ cat
++ cat
++ npm install --omit=dev
+
+added 81 packages, and audited 82 packages in 8s
+
+28 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New major version of npm available! 9.8.1 -> 12.2.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v12.2.0>
+npm notice Run `npm install -g npm@12.2.0` to update!
+npm notice 
++ chown -R ec2-user:ec2-user /opt/api-reservas
++ cat
++ systemctl daemon-reload
++ systemctl enable api-reservas
+Created symlink /etc/systemd/system/multi-user.target.wants/api-reservas.service  /etc/systemd/system/api-reservas.service.
++ systemctl start api-reservas
+Cloud-init v. 22.2.2 finished at Thu, 01 Oct 2026 17:54:15 +0000. Datasource DataSourceEc2.  Up 41.46 seconds
+PORTAS
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess                        
+LISTEN 0      128          0.0.0.0:22        0.0.0.0:*    users:(("sshd",pid=2161,fd=3))
+LISTEN 0      128             [::]:22           [::]:*    users:(("sshd",pid=2161,fd=4))
+
