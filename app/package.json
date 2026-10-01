@@ -1,0 +1,12 @@
+{
+  "name": "api-reservas",
+  "version": "1.0.0",
+  "description": "API de Reservas para a prova do primeiro bimestre de DevOps",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
