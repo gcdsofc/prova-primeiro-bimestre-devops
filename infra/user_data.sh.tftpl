@@ -267,6 +267,7 @@ Type=simple
 WorkingDirectory=/opt/api-reservas
 Environment=PORT=3000
 Environment=DATABASE_URL=${database_url}
+Environment=NODE_TLS_REJECT_UNAUTHORIZED=0
 ExecStart=/usr/bin/node src/server.js
 Restart=always
 RestartSec=10

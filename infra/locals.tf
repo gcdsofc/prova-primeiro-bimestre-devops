@@ -15,5 +15,5 @@ locals {
     private-2 = { cidr = "10.20.12.0/24", az = "us-east-1b", type = "private" }
   }
 
-  database_url = "postgres://${var.db_username}:${var.db_password}@${module.database.db_address}:${module.database.db_port}/${var.db_name}"
+  database_url = "postgres://${var.db_username}:${var.db_password}@${module.database.db_address}:${module.database.db_port}/${var.db_name}?sslmode=require"
 }

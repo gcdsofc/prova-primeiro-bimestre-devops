@@ -1,0 +1,6 @@
+﻿{
+    "id":  1,
+    "cliente":  "Gabriel Carneiro",
+    "data":  "2026-10-02T00:00:00.000Z",
+    "status":  "atualizada"
+}
