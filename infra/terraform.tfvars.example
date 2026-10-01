@@ -1,0 +1,13 @@
+aws_region   = "us-east-1"
+project_name = "reservas"
+environment  = "academy"
+owner_ra     = "6325300"
+
+allowed_ssh_cidr = "203.0.113.10/32"
+ssh_public_key   = ""
+
+db_name     = "reservas_db"
+db_username = "reservas_user"
+db_password = "ChangeMe6325300"
+
+use_lab_instance_profile = true

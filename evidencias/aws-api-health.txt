@@ -1,0 +1,4 @@
+﻿{
+    "status":  "healthy",
+    "timestamp":  "2026-10-01T19:17:46.102Z"
+}
